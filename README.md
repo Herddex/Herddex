@@ -1,3 +1,4 @@
 Interests:
-* Rust development (both open-source and commercial)
-* Spring Boot application development
+* Rust development
+* Factorio mod development
+* Spring Boot and Java application development
